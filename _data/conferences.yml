@@ -10,3 +10,14 @@ main:
     image: ./assets/images/2024_GCCE.png
     notes: Accepted 
 
+
+  - title: Tomato Fruit Evolution and Maturity estimation from RGB Time-lapse Observation via Modern Structure from Motion and Instance Segmentation
+    authors: Stefan Baar, Yosuke Kobayashi, and Shinya Watanabe
+    conference_short: SCIS & ISIS 2024
+    conference: Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems <-- links coming soon
+    #pdf: https://www.mdpi.com/2313-433X/10/8/181
+    #code: https://github.com/StefanBaar/cell_align
+    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uZHzx6X3imUJ:scholar.google.com/&output=citation&scisdr=ClHXAiB2ELSwmnjHD0Q:AFWwaeYAAAAAZtHBF0TCppjF_tV9xYEJeMj5uJo&scisig=AFWwaeYAAAAAZtHBFw6HmGtqZTOghjMpm5GQRDI&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/images/2024_SCIS.png
+    notes: Accepted 
+
