@@ -1,0 +1,22 @@
+main:
+
+  - title: Fiduciary-Free Frame Alignment for Robust Time-Lapse Drift Correction Estimation in Multi-Sample Cell Microscopy
+    authors: Baar, Stefan, Kuragano M., Nishishita N., Tokuraku K. and Watanabe, S.
+    publisher: MDPI
+    journal: Journal of Imaging - MDPI
+    pdf: https://www.mdpi.com/2313-433X/10/8/181
+    code: https://github.com/StefanBaar/cell_align
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uZHzx6X3imUJ:scholar.google.com/&output=citation&scisdr=ClHXAiB2ELSwmnjHD0Q:AFWwaeYAAAAAZtHBF0TCppjF_tV9xYEJeMj5uJo&scisig=AFWwaeYAAAAAZtHBFw6HmGtqZTOghjMpm5GQRDI&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/images/2024_FF.png
+    notes: Accepted 
+
+  - title: Towards a comprehensive approach for characterizing cell activity in bright-field microscopic images
+    authors: Baar, Stefan, Kuragano M., Tokuraku K. and Watanabe, S.
+    publisher: Nature
+    journal: Scientific Reports - Nature
+    pdf: https://www.nature.com/articles/s41598-022-20598-6
+    code: https://github.com/StefanBaar/cell_align
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H3w69MzDMqUJ:scholar.google.com/&output=citation&scisdr=ClHXAiB2ELSwmnjLhCM:AFWwaeYAAAAAZtHNnCPD6PHzDQ4AbIXDQejtTtk&scisig=AFWwaeYAAAAAZtHNnDkE8cPtT8VZVPntDnu3HC4&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/images/2022_SR.png
+    notes: Accepted 
+
